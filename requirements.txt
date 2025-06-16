@@ -1,0 +1,10 @@
+langchain
+langchain-community
+sentence-transformers
+faiss-cpu
+PyPDF2
+transformers
+torch
+fpdf
+
+
